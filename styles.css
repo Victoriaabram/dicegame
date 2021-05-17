@@ -23,9 +23,10 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #686d76;
   font-family: 'Indie Flower', cursive;
+  font-weight: bold;
 }
 
 img {
@@ -39,3 +40,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
