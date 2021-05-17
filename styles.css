@@ -17,13 +17,21 @@ body {
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #eeeeee;
 }
 
+h2 {
+  margin: 30px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
+  color: #black;
+}
+
 p {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #686d76;
   font-family: 'Indie Flower', cursive;
   font-weight: bold;
